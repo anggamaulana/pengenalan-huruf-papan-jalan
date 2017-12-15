@@ -1,5 +1,7 @@
 # pengenalan-huruf-papan-jalan
-Character recognition on the street sign in Indonesian Cities
+Simple Character recognition on the street sign in Indonesian Cities to accomplished my final task in Image Processsing subject
+
+Detail specification : 
 
 #Segmentation : 
 Mean of Otsu value,
